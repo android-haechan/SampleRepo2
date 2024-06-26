@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         Log.d("tag","test")
+        Log.d("tag", "test2")
     }
 }
